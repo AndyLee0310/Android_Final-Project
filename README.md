@@ -15,5 +15,4 @@
 
 ## License
 
-Copyright © 2021 [WUN-JHIH LEE](https://github.com/AndyLee0310).<br />
 This project is [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.html) licensed.
