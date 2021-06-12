@@ -10,7 +10,8 @@
 
 ## Author
 
-👤 **WUN-JHIH LEE** and **TING-WEI XU**
+👤 **WUN-JHIH LEE** (108590001)<br />
+👤 **TING-WEI HSU** (107590027)
 
 
 ## License
