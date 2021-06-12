@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Reminders</string>
+
+    <string name="day_mode">Day Mode</string>
+    <string name="night_mode">Night Mode</string>
+
+    <string name="create_a_new_note">Create a new reminder</string>
+    <string name="edit_a_note">Edit this reminder</string>
+
+    <string name="finish">finish</string>
+    <string name="note_title">Reminders Title</string>
+    <string name="note_content">Reminders Content</string>
+    <string name="DueDate">Due Date</string>
+    <string name="addDueDate">Add Due Date</string>
+    <string name="clear">Clear</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+
+    <string name="no_notes">No notes</string>
+    <string name="unable_to_update">Unable to update the word</string>
+    <string name="empty_not_saved">Note not saved because it is empty.</string>
+
+    <string name="delete_tag">You deleted this note.</string>
+    <string name="action_delete">Delete</string>
+    <string name="undo">Undo</string>
+
+</resources>
